@@ -1,5 +1,3 @@
-# AI-as-a-Learning-Partner
-A methodology for learning, reasoning, validating, and documenting with AI.
 # AI as a Learning Partner
 
 > A documented methodology for using AI to learn, reason, validate, and continuously improve.
