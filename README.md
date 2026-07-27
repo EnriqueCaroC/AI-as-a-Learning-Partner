@@ -65,3 +65,13 @@ Create reusable assets
 This workflow has been applied throughout my learning process in SQL, Python, Data Analytics, interview preparation, professional communication, and portfolio development.
 
 Rather than asking AI to replace my thinking, I use it to strengthen it.
+## Repository Structure
+
+This repository is organized around a simple idea: document the learning process, not just the final result.
+
+| Section | Purpose |
+|---------|---------|
+| `case-studies/` | Real examples of how I used AI to learn, solve problems, and improve my work. |
+| *(Coming soon)* `prompts/` | Reusable prompts designed to encourage reasoning rather than answer generation. |
+| *(Coming soon)* `checklists/` | Practical checklists for validating AI-assisted work. |
+| *(Coming soon)* `methodology/` | The principles and workflow that guide my use of AI. |
