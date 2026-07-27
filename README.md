@@ -40,3 +40,28 @@ Every meaningful learning session should produce something reusable: documentati
 ### 6. Document the process
 
 I believe documenting the reasoning behind decisions is often as valuable as documenting the final solution.
+## AI Learning Workflow
+
+Over time, I naturally developed a repeatable workflow that I now use whenever I learn something new.
+
+```text
+Problem
+    ↓
+Independent reasoning
+    ↓
+Build a hypothesis
+    ↓
+Discuss with AI
+    ↓
+Validate assumptions
+    ↓
+Refine the solution
+    ↓
+Document the learning
+    ↓
+Create reusable assets
+```
+
+This workflow has been applied throughout my learning process in SQL, Python, Data Analytics, interview preparation, professional communication, and portfolio development.
+
+Rather than asking AI to replace my thinking, I use it to strengthen it.
