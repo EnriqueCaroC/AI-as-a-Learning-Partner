@@ -1,5 +1,11 @@
-# Learning SQL with AI
+# Building a Learning Methodology with AI
 
-> Coming soon.
+## Background
 
-This case study will document how I used AI to learn SQL by building my own reasoning first, validating my assumptions, understanding mistakes, and documenting the learning process instead of relying on AI to generate answers.
+When I first started learning Data Analytics, I used AI like many beginners: asking questions and looking for explanations.
+
+Over time, that interaction changed.
+
+Instead of asking AI for answers, I began using it to challenge my reasoning, review my work, improve my communication, and document what I learned.
+
+This document describes how that methodology emerged through months of real conversations and iterative learning.
