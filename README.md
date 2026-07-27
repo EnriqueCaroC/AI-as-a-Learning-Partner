@@ -13,3 +13,30 @@ This repository documents that methodology through real examples extracted from 
 The goal is not to demonstrate what AI can do.
 
 The goal is to demonstrate how I work with AI.
+## Core Principles
+
+These principles guide every interaction I have with AI.
+
+### 1. Think before asking
+
+I first analyze the problem and build my own hypothesis before asking AI for help.
+
+### 2. Understand before implementing
+
+My goal is to understand concepts deeply, not just produce working code or answers.
+
+### 3. Validate, don't blindly trust
+
+I use AI to review reasoning, identify weaknesses, and challenge assumptions rather than accepting every response as correct.
+
+### 4. Iterate continuously
+
+The first answer is rarely the final one. I refine explanations, code, documentation, and communication through multiple iterations.
+
+### 5. Turn learning into reusable assets
+
+Every meaningful learning session should produce something reusable: documentation, prompts, checklists, projects, or portfolio pieces.
+
+### 6. Document the process
+
+I believe documenting the reasoning behind decisions is often as valuable as documenting the final solution.
