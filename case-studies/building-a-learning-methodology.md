@@ -68,3 +68,19 @@ Instead of asking AI to solve problems, I started asking it to:
 - Help me communicate technical ideas more effectively.
 
 This shift transformed AI from a source of answers into a learning partner that supported deeper understanding and continuous improvement.
+## Case Example — Building My Own Reasoning First
+
+A recurring example appeared while learning SQL and Data Analytics.
+
+Instead of asking AI to solve exercises, I first attempted to interpret the problem, explain my reasoning, and identify what I believed was happening.
+
+Only after committing to my own explanation did I ask AI to review it.
+
+This produced a very different learning dynamic:
+
+- I identified mistakes instead of hiding them.
+- AI explained *why* my reasoning was incomplete.
+- I refined my understanding instead of memorizing an answer.
+- The final explanation became something I could reuse later.
+
+Over time, this approach became my default workflow for technical learning.
