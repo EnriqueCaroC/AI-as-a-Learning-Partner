@@ -36,3 +36,18 @@ Create reusable assets
 This pattern appeared repeatedly across technical learning, interview preparation, professional communication, portfolio development, and project documentation.
 
 The consistency of this workflow eventually became the foundation of this repository.
+## Evidence 1 — Independent Reasoning Before Asking
+
+One of the strongest recurring patterns was that I rarely started by asking AI for a solution.
+
+Instead, I first attempted to understand the problem, built my own explanation or hypothesis, and only then asked AI to review my reasoning.
+
+This changed the role of AI from an answer generator into a reviewer and discussion partner.
+
+Typical interaction:
+
+- Observe the problem.
+- Form an initial hypothesis.
+- Explain my reasoning.
+- Ask AI to challenge or validate it.
+- Refine my understanding based on the discussion.
