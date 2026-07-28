@@ -51,3 +51,20 @@ Typical interaction:
 - Explain my reasoning.
 - Ask AI to challenge or validate it.
 - Refine my understanding based on the discussion.
+## Evidence 2 — From Answers to Understanding
+
+My interaction with AI evolved over time.
+
+Initially, I focused on obtaining explanations for concepts I didn't understand.
+
+As my skills developed, my questions changed.
+
+Instead of asking AI to solve problems, I started asking it to:
+
+- Review my reasoning.
+- Explain why something was wrong.
+- Challenge my assumptions.
+- Suggest improvements without replacing my work.
+- Help me communicate technical ideas more effectively.
+
+This shift transformed AI from a source of answers into a learning partner that supported deeper understanding and continuous improvement.
